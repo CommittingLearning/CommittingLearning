@@ -19,4 +19,3 @@ Feel free to explore the repos and reach out if you have any questions or sugges
 ---
 You can connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/tanishk-singh-9947241b6/)
-- [Twitter](https://twitter.com/yourprofile)
